@@ -7,22 +7,12 @@ public:
 
         for(char a: s){
             if(find(vowels.begin(), vowels.end(),a) != vowels.end()){
-                if(vowel_freq.find(a) == vowel_freq.end()){
-                    vowel_freq[a] = 1;
-                }
-                else{
-                    vowel_freq[a] += 1;
-                }
+                vowel_freq[a] ++;
 
             }
 
             else{
-                if (consonant_freq.find(a) == consonant_freq.end()){
-                    consonant_freq[a] = 1;
-                }
-                else{
-                    consonant_freq[a] += 1;
-                }
+                consonant_freq[a] ++;
             }
 
         }
