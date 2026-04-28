@@ -7,10 +7,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/EmirrKilinc/LeetCodeQuestions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/EmirrKilinc/LeetCodeQuestions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/EmirrKilinc/LeetCodeQuestions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/EmirrKilinc/LeetCodeQuestions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
